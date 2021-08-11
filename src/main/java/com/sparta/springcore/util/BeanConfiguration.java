@@ -1,4 +1,4 @@
-package com.sparta.springcore;
+package com.sparta.springcore.util;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
